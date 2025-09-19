@@ -26,6 +26,10 @@ export const DATA = {
     { href: "/", icon: HomeIcon, label: "Home" },
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
+  resume: {
+    url: "https://drive.google.com/file/d/1AyC7tVWdUMJcwXrqI5bp6bgLezDSSKeY/view?usp=sharing",
+    label: "View Resume",
+  },
   contact: {
     email: "lalit284546@gmail.com",
     tel: "+91 8882230066",
