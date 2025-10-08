@@ -11,7 +11,7 @@ export const DATA = {
     "I love building things and helping people. Very active on Twitter.",
   summary:
     "I'm currently a student graduating in August 2025, and I’ve worked on a few indie projects like FeedbackHub, an estate listing website, and now Podify. I also did a freelance project and gained startup experience as a full stack developer at an early-stage company called Mr Surveyor.",
-  avatarUrl: "/lalit-image.jpeg",
+  avatarUrl: "/lalit-ai-generated.png",
   skills: [
     "React",
     "Next.js",
